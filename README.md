@@ -21,11 +21,25 @@ Star UML
 ### HARDWARE REQUIRMENTS:
 1. 512MB RAM2. Pentium III Processor
 
+### UML DIAGRAMS:
 
+USE CASE
+![image](https://github.com/user-attachments/assets/98b62a5f-a3af-4495-80c1-876f7835f690)
 
+CLASS DIAGRAM
+![image](https://github.com/user-attachments/assets/1bbad17b-5b06-4137-b305-e27e2a4de915)
 
+ACTIVITY DIAGRAM
+![image](https://github.com/user-attachments/assets/7852897c-90e0-4bd7-922c-853991ad1ac1)
 
+SEQUENCE DIAGRAM
+![image](https://github.com/user-attachments/assets/ef5137b2-1438-48f7-8e5b-a1af7f7e72ac)
 
+COMMUNICATION DIAGRAM
+![image](https://github.com/user-attachments/assets/ba42b94f-2c55-446d-85c1-e60d018732db)
+
+PACKAGE DIAGRAM
+![image](https://github.com/user-attachments/assets/c150d534-604b-453d-8f49-c174411eb838)
 
 ### RESULT:
 Thus the Passport Registration system project was executed and the output was verified.
